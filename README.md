@@ -8,3 +8,6 @@ Features
 Todo
 -------------
 - [x] Use shellcheck linter on the Bash scripts
+
+- add-new-certificate.sh: Add a new certificate to a existing Linux server.
+
