@@ -1,5 +1,5 @@
 # git delete old local branches older than 2 months
-!#/bin/bash
+#!/bin/bash
 set -e
 
 number_of_months=2
