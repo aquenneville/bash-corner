@@ -1,4 +1,4 @@
-# Bash-corner
+# Bash-scripts
 
 Features
 -------------
